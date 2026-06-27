@@ -1,3 +1,11 @@
+# BentoGrid
+
+An interactive, responsive Bento Grid layout with mouse-driven animations built with React, TypeScript, Tailwind CSS, and Framer Motion.
+
+🔗 **Live Demo:** https://bento-grid-aps-projects-b1cc6759.vercel.app
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
